@@ -1,4 +1,4 @@
-module test-mod
+module deepgo
 
 go 1.25.2
 

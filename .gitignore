@@ -1,2 +1,2 @@
 # Исключить папки materials в уроках
-lesson_*/materials/
+pkg/lesson_*/materials/

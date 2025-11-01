@@ -1,2 +1,3 @@
 # Исключить папки materials в уроках
 pkg/lesson_*/materials/
+.claude
